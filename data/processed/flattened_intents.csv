@@ -1,0 +1,69 @@
+intent,text
+greeting,Hi
+greeting,Hello
+greeting,Hey
+greeting,Good morning
+greeting,Good afternoon
+greeting,Is anyone there?
+greeting,Hi there
+greeting,Greetings
+greeting,Hey there
+greeting,Howdy
+goodbye,Bye
+goodbye,See you later
+goodbye,Goodbye
+goodbye,Catch you later
+goodbye,Have a good one
+goodbye,I'm leaving
+goodbye,Talk to you later
+goodbye,See ya
+thanks,Thanks
+thanks,Thank you
+thanks,That's helpful
+thanks,Thanks a lot
+thanks,I appreciate it
+thanks,"Awesome, thanks"
+thanks,Thank you so much
+help,I need help
+help,Can you help me?
+help,Help me
+help,I'm stuck
+help,I need assistance
+help,Support please
+help,Can you assist me with something
+capabilities,What can you do?
+capabilities,What are your features?
+capabilities,How can you help me?
+capabilities,What is your purpose?
+capabilities,Tell me what you do
+capabilities,What are you capable of
+introduction,Who are you?
+introduction,What is your name?
+introduction,Are you a human?
+introduction,Tell me about yourself
+introduction,Identify yourself
+internship_info,Tell me about the internship
+internship_info,What project is this?
+internship_info,Cognevance internship details
+internship_info,Is this an internship project?
+internship_info,What is this internship about?
+internship_info,Can you explain the internship?
+internship_info,Give me information about the internship
+internship_info,What projects are included in the internship?
+internship_info,Tell me about the AI internship
+movie_recommendation,Give me some movie recommendations
+movie_recommendation,Can you recommend a movie?
+movie_recommendation,Suggest me some movies
+movie_recommendation,I want movie recommendations
+movie_recommendation,Which movie should I watch?
+movie_recommendation,Can you suggest a good movie?
+movie_recommendation,Recommend some movies for me
+movie_recommendation,gave me some recommendations for movie
+movie_recommendation,what should I watch tonight
+movie_recommendation,any good movies to watch
+contact,How do I contact support?
+contact,Contact information
+contact,I need to talk to a human
+contact,Where can I reach you?
+contact,Email address
+contact,How can I reach support

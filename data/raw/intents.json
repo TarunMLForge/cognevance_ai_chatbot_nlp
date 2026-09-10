@@ -1,0 +1,98 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "patterns": [
+        "Hi", "Hello", "Hey", "Good morning", "Good afternoon", "Is anyone there?", "Hi there", "Greetings", "Hey there", "Howdy"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I do for you?",
+        "Greetings! How may I help you?"
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "patterns": [
+        "Bye", "See you later", "Goodbye", "Catch you later", "Have a good one", "I'm leaving", "Talk to you later", "See ya"
+      ],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "See you later! Let me know if you need anything else.",
+        "Take care!"
+      ]
+    },
+    {
+      "intent": "thanks",
+      "patterns": [
+        "Thanks", "Thank you", "That's helpful", "Thanks a lot", "I appreciate it", "Awesome, thanks", "Thank you so much"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Any time! Let me know if you have more questions."
+      ]
+    },
+    {
+      "intent": "help",
+      "patterns": [
+        "I need help", "Can you help me?", "Help me", "I'm stuck", "I need assistance", "Support please", "Can you assist me with something"
+      ],
+      "responses": [
+        "Sure, I can help! What do you need assistance with?",
+        "I'm here to help. What seems to be the problem?",
+        "Tell me what you need help with, and I'll do my best."
+      ]
+    },
+    {
+      "intent": "capabilities",
+      "patterns": [
+        "What can you do?", "What are your features?", "How can you help me?", "What is your purpose?", "Tell me what you do", "What are you capable of"
+      ],
+      "responses": [
+        "I am an AI chatbot. I can answer questions about this project, provide support, and even suggest movie recommendations!",
+        "I can classify your intents using NLP and respond accordingly. Try asking me about my internship project or for a movie recommendation!"
+      ]
+    },
+    {
+      "intent": "introduction",
+      "patterns": [
+        "Who are you?", "What is your name?", "Are you a human?", "Tell me about yourself", "Identify yourself"
+      ],
+      "responses": [
+        "I am a Natural Language Processing chatbot built for Cognevance Technologies.",
+        "I'm an AI assistant created as part of a Machine Learning internship project!"
+      ]
+    },
+    {
+      "intent": "internship_info",
+      "patterns": [
+        "Tell me about the internship", "What project is this?", "Cognevance internship details", "Is this an internship project?", "What is this internship about?", "Can you explain the internship?", "Give me information about the internship", "What projects are included in the internship?", "Tell me about the AI internship"
+      ],
+      "responses": [
+        "This is Project 2 of the AI & ML internship at Cognevance Technologies. It focuses on building an intent-classification chatbot using NLP.",
+        "This chatbot was developed to demonstrate text preprocessing, feature extraction using TF-IDF, and ML classification for the Cognevance internship."
+      ]
+    },
+    {
+      "intent": "movie_recommendation",
+      "patterns": [
+        "Give me some movie recommendations", "Can you recommend a movie?", "Suggest me some movies", "I want movie recommendations", "Which movie should I watch?", "Can you suggest a good movie?", "Recommend some movies for me", "gave me some recommendations for movie", "what should I watch tonight", "any good movies to watch"
+      ],
+      "responses": [
+        "I'd love to help! Since I am a text chatbot, I can't run the movie recommendation model directly here, but you can check out Project 1 in the workspace which is a dedicated Movie Recommendation System!",
+        "I highly recommend checking out 'The Matrix', 'Inception', or 'The Shawshank Redemption'! If you want personalized recommendations, run our Project 1 recommender script."
+      ]
+    },
+    {
+      "intent": "contact",
+      "patterns": [
+        "How do I contact support?", "Contact information", "I need to talk to a human", "Where can I reach you?", "Email address", "How can I reach support"
+      ],
+      "responses": [
+        "You can reach out to the project developer via GitHub or email.",
+        "Please check the repository's README.md for contact and support information."
+      ]
+    }
+  ]
+}
